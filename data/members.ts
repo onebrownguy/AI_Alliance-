@@ -1,0 +1,22 @@
+export const members = [
+  { name: "Austin Community College", website: "https://austincc.edu" },
+  { name: "AMD", website: "https://amd.com" },
+  { name: "IBM", website: "https://ibm.com" },
+  { name: "Dell Technologies", website: "https://dell.com" },
+  { name: "GTS", website: "#" },
+  { name: "coding/it", website: "#" },
+  { name: "Scalafai", website: "#" },
+  { name: "SYSTalent", website: "#" },
+  { name: "TEKsystems", website: "https://teksystems.com" },
+  { name: "CIELO", website: "#" },
+  { name: "Issa", website: "#" },
+  { name: "promise", website: "#" },
+  { name: "ALLIES", website: "#" },
+  { name: "Growtheorem", website: "#" },
+  { name: "Latham & Watkins", website: "#" },
+  { name: "measure", website: "#" },
+  { name: "OID OVRFLW Digital", website: "#" },
+  { name: "pain & JOY", website: "#" },
+  { name: "Talentless", website: "#" },
+  { name: "Weaver", website: "#" }
+]
